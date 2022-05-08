@@ -1,1 +1,59 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+/* For the resorces, all the fonts needed for this activity are body font to Source Sans Pro*/
+/* Header font to Abril Fatface */
+/* Article title font: Roboto Slab */
+
+body {
+    font-family: Source Sans Pro;
+    background-color: #eee;
+    border: #eee;
+    
+}
+
+header {
+    font-family: Abril Fatface;
+    text-align: center;
+
+}
+
+h2 {font-family: Roboto Slab;
+
+
+}
+
+div.newspaper-container {
+    background-color: white;
+    box-shadow: #ddd;
+    width: 700px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(50, 28, 178);
+    padding: 1em;
+}
+
+main {
+color: #dd3232;
+
+}
+
+
+ul {
+    list-style: none;
+    
+    
+}
+
+li {
+    margin-right: -5px;
+    display: inline-block;
+    padding: 0.3em;
+    
+}
+
+.topnav a{
+    color: #ddd;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    text-decoration: none;
+    
+}
